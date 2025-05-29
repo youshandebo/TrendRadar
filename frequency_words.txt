@@ -67,3 +67,7 @@ AMD显卡和CPU价格
 
 github
 github推荐项目
+
+英特尔
+英特尔CPU
+英特尔显卡
